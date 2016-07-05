@@ -30,6 +30,7 @@ li {
 	font-style:bold;
 	color:#191919;
 	font-family: Impact;
+	
 }
 
 a{
@@ -40,6 +41,12 @@ h3 {
 	font-size:30px;
 	font-style:normal;
 	color:#d61f5d;
-	font-family: Lucida
+	font-family: Lucida;
+	text-align:center;
 }
 
+.center{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
